@@ -8,7 +8,7 @@ management drives business value in technology organizations.
 
 | Lab | Module | Key Skills Demonstrated |
 |---|---|---|
-| Review Product Development | Module 1 | 
+| Review Product Development | Module 1 | Scope definition, stakeholder mapping, risk assessment |
 | Role of a Product Manager | Module 2 | PM framework design, stakeholder analysis |
 | Identifying How PM Can Help | Module 4 | Business value analysis, scenario application |
 | Final Project — Product Development Scenario Review | Final | PM role definition, skills assessment |
