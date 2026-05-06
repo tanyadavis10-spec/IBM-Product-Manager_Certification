@@ -19,8 +19,8 @@ A comprehensive product management program covering the full product lifecycle �
 |---|---|---|---|---|
 | 1 | Product Management: An Introduction | 14 hrs | ✅ Complete | PM framework, skills analysis, product development scenario review |
 | 2 | Product Management: Foundations & Stakeholder Collaboration | 16 hrs | ✅ Complete | RACI matrix, SWOT analysis, communication issues & solutions |
-| 3 | Product Management: Initial Product Strategy and Plan | 18 hrs | 🔄 In Progress | Product roadmap, MRD, SWOT, financial analysis |
-| 4 | Product Management: Developing and Delivering a New Product | 19 hrs | ⏳ Upcoming | Launch checklist, beta testing plan, go-to-market readiness |
+| 3 | Product Management: Initial Product Strategy and Plan | 18 hrs | ✅ Complete  | Product roadmap, MRD, SWOT, financial analysis |
+| 4 | Product Management: Developing and Delivering a New Product | 19 hrs | 🔄 In Progress | Launch checklist, beta testing plan, go-to-market readiness |
 | 5 | Introduction to Agile Development and Scrum | 13 hrs | ⏳ Upcoming | Product backlog, sprint plans, burndown charts, GitHub Kanban board |
 | 6 | Product Management: Capstone Project | 17 hrs | ⏳ Upcoming | End-to-end product lifecycle portfolio, CPM exam readiness |
 | 7 | Practice Exam for AIPMM Certified Product Manager (CPM) | 4 hrs | ⏳ Upcoming | 40-question practice exam, 120-question mock CPM exam |
