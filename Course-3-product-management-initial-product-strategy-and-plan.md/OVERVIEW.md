@@ -1,10 +1,3 @@
-Course: IBM Product Manager Professional Certificate — Course 3
-Title: Product Management: Initial Product Strategy and Plan
-Platform: Coursera
-Completed: May 2026
-
----
-
 ## Course Overview
 
 This was the course where the connection between my professional background and product management became concrete. Course 3 focuses on the Conceive and Plan phases of the product lifecycle - the work that happens before anything gets built - covering how a product manager takes an idea and constructs the foundation that justifies investing in it.
