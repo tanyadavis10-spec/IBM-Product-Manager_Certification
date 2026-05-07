@@ -1,11 +1,3 @@
-Lab: Develop a Product Concept Document  
-Course: IBM Product Manager Professional Certificate - Course 3  
-Module: 1 - Product Conception and Planning Overview  
-Product: Prep&Pivot App  
-Completed: May 2026  
-
----
-
 ## Lab Overview
 
 This lab introduced the Product Concept Document as the first formal gate in the product lifecycle, the document that captures an initial product idea in structured form and is used to gain stakeholder alignment and approval before committing investigation and planning resources.
