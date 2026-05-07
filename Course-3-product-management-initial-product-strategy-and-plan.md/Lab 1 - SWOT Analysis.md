@@ -1,11 +1,3 @@
-Lab: Perform a Product SWOT Analysis
-Course: IBM Product Manager Professional Certificate - Course 3 
-Module: 1 - Product Conception and Planning Overview 
-Product: Prep&Pivot App 
-Completed: May 2026
-
----
-
 ## Lab Overview
 
 This lab introduced the SWOT analysis as a formal product management tool used during the Conceive phase to evaluate whether a product concept is worth pursuing. The exercise required both an internal and external product assessment documented in a structured template. I applied it to the Prep&Pivot App, the AI agentic nutrition concierge with meal planning and macro tracking capabilities.
