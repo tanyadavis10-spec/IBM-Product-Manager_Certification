@@ -1,11 +1,3 @@
-Lab: Develop an Initial Project Charter  
-Course: IBM Product Manager Professional Certificate — Course 3  
-Module: 2 — Product Concept Identification  
-Product: Prep&Pivot App  
-Completed: May 2026  
-
----
-
 ## Lab Overview
 
 This lab introduced the Project Charter as the document that formally authorizes a product project and establishes the product manager's authority to apply resources toward the work. It defines team composition, purpose, objectives, KPIs, sponsor, deadlines, resources, and meeting cadence before execution begins.
